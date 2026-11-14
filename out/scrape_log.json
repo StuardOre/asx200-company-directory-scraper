@@ -1,0 +1,83 @@
+{
+  "run_started_utc": "2026-11-14T08:46:50+00:00",
+  "run_seconds": 301.6,
+  "list_url": "https://en.wikipedia.org/wiki/S%26P/ASX_200",
+  "list_fetched_at": "2026-11-14T08:46:51+00:00",
+  "user_agent": "StuardOre-portfolio-scraper/1.0 (https://github.com/StuardOre)",
+  "delay_seconds": 1.0,
+  "rows_in_index_table": 200,
+  "unique_asx_codes": 200,
+  "rows_linked_in_index_table": 140,
+  "found_by": {
+    "Link in index table": 140,
+    "Name search, confirmed by ASX code": 7
+  },
+  "title_guesses_tried": 125,
+  "articles_used": 147,
+  "pages_with_company_infobox": 144,
+  "rows_by_status": {
+    "OK": 134,
+    "Not found": 56,
+    "Check": 10
+  },
+  "issue_counts": {
+    "No Wikipedia article for this company": 53,
+    "Head office": 6,
+    "Index code differs from article": 3,
+    "Index link opens Australian Securities Exchange, a page with no company infobox": 1,
+    "No website in the article": 1,
+    "Index link opens a page about a person (Solomon Lew)": 1,
+    "Index link opens a page about a person (Richard White (businessman))": 1
+  },
+  "rows_with_figures_to_update": 102,
+  "figure_gap_counts": {
+    "No employee count": 44,
+    "No revenue": 40,
+    "Revenue is 3+ years old": 37,
+    "Employee count is 3+ years old": 24,
+    "Employee count has no year": 19
+  },
+  "coverage": {
+    "article_url": {
+      "filled": 147,
+      "pct": 73.5
+    },
+    "industry": {
+      "filled": 135,
+      "pct": 67.5
+    },
+    "head_office": {
+      "filled": 200,
+      "pct": 100.0
+    },
+    "founded": {
+      "filled": 143,
+      "pct": 71.5
+    },
+    "employees": {
+      "filled": 100,
+      "pct": 50.0
+    },
+    "revenue_m": {
+      "filled": 104,
+      "pct": 52.0
+    },
+    "website_domain": {
+      "filled": 143,
+      "pct": 71.5
+    }
+  },
+  "fetch_stats": {
+    "network_requests": 266,
+    "cache_hits": 0,
+    "retries": 0,
+    "not_found_404": 106,
+    "blocked_by_robots": 0,
+    "status_codes": {
+      "200": 160,
+      "404": 106
+    }
+  },
+  "failures": [],
+  "data_licence": "Text from Wikipedia, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+}
